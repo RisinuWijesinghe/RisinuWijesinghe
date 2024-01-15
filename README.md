@@ -1,9 +1,9 @@
 <a href="https://github.com/RisinuWijesinghe">
-  <img src="https://drive.google.com/uc?id=1b2DSACCW-ehFX7L3clV6W77gkbTs9A20" alt="MasterHead" style="width: 100%; height: 300px;">
+  <img src="https://drive.google.com/uc?id=1b2DSACCW-ehFX7L3clV6W77gkbTs9A20" alt="MasterHead" style="width: 100%; height: 200px;">
 </a>
 
 
-<h1 align="center">Hi 👋, I'm Risnu Wijesinghe</h1>
+<h1 align="center">Hi 👋, I'm Risinu Wijesinghe</h1>
 <h3 align="center">Passionate about web development</h3>
 
 - 📫 How to reach me **risinuwijesinghe4@gmail.com**
