@@ -3,7 +3,10 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Risinu Wijesinghe</h1>
-<h3 align="center">Passionate about Web development </h3>
+<h3 align="center">I am a passionate Computer Science and Engineering student, specializing in cybersecurity, with a strong interest in
+both web development and cybersecurity. I enjoy exploring new technologies and continuously seek to enhance my
+skills in building software while ensuring robust security practices. I’m driven to contribute to innovative, secure, and
+scalable solutions in both software development and cyber defense. </h3>
 
 <h3 align="left">Connect with me :)</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=15FygN4SOgdjwVcKcGZIJ5I9_D6KNbK_F">
