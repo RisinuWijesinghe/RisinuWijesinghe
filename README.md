@@ -1,5 +1,5 @@
 <a href="https://github.com/RisinuWijesinghe">
-  <img src="https://drive.google.com/uc?export=view&id=1_XeG6wXjcK6_6lf-by3NsBI2Xd4wTHe8" alt="MasterHead" style="width: 100%; height: 200px;">
+  <img src="https://drive.google.com/uc?export=view&id=1_XeG6wXjcK6_6lf-by3NsBI2Xd4wTHe8" alt="MasterHead" style="width: 100%; height: 200px;" >
 </a>
 
 <h1 align="center">Hi there! 👋 I'm Risinu Wijesinghe</h1> <h3 align="center">Passionate CSE Student | Web & Software Developer</h3> <p align="center"> 🚀 I’m a Computer Science and Engineering student focused on building secure, scalable applications. I love exploring new technologies and creating solutions that combine innovation and strong coding practices. </p> <p align="center"> 🔐 My goal is to bridge the gap between functionality and security, contributing to cutting-edge projects in web development and cyber defense. </p>
