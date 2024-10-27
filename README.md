@@ -59,7 +59,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RisinuWijesinghe&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+ <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RisinuWijesinghe&theme=dark&hide_border=false&include_all_commits=false&count_private=true) -->
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RisinuWijesinghe&theme=dark&hide_border=false)
   
